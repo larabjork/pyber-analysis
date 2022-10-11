@@ -8,8 +8,9 @@ This task involves examining ride-sharing data for three different types of citi
 Data analysis, completed in Jupyter Notebook using Pandas and Matplotlib, is available [here](https://github.com/larabjork/pyber-analysis/blob/main/PyBer_Challenge.ipynb)
 
 Data sources are available here: 
-[City data](https://github.com/larabjork/pyber-analysis/blob/main/Resources/city_data.csv)
-[Ride data](https://github.com/larabjork/pyber-analysis/blob/main/Resources/ride_data.csv)
+
+* [City data](https://github.com/larabjork/pyber-analysis/blob/main/Resources/city_data.csv)
+* [Ride data](https://github.com/larabjork/pyber-analysis/blob/main/Resources/ride_data.csv)
 
 A summary of the data is shown below.
 
