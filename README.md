@@ -6,9 +6,14 @@ This task involves examining ride-sharing data for three different types of citi
 
 ## Results
 
-### Total Rides by City Type
+A summary of the data is shown below.
 
-### Total Drivers by City Type
+
+
+### Total Rides by City Type
+The number of rides appears to correlate with city type and therefore population size. The number of suburban rides is 5 times greater than the number of rural rides, and the number of urban rides is 2.6 times greater than the number of suburban rides and 13 times greater than the number of rural rides.
+
+### Total Drivers by City Typesummar
 
 ### Total Fares ???
 
