@@ -5,6 +5,12 @@ Data Bootcamp Challenge, Week 5
 This task involves examining ride-sharing data for three different types of cities, based on size: urban, suburban, and rural. Data are summarized in a Pandas DataFrame (tabular format) and then total weekly fares are plotted with Matplotlib in a multiple-line graph. This report summarizes differences among the city types that became apparent when examining the data, with the goal of informing decision-making at the parent company, Pyber.
 
 ## Results
+Data analysis, completed in Jupyter Notebook using Pandas and Matplotlib, is available [here](https://github.com/larabjork/pyber-analysis/blob/main/PyBer_Challenge.ipynb)
+
+Data sources are available here: 
+[City data](https://github.com/larabjork/pyber-analysis/blob/main/Resources/city_data.csv)
+[Ride data](https://github.com/larabjork/pyber-analysis/blob/main/Resources/ride_data.csv)
+
 A summary of the data is shown below.
 
 ![dataframe showing summary of analysis](https://github.com/larabjork/pyber-analysis/blob/main/analysis/summary_data_frame.png)
